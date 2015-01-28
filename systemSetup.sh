@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 add-apt-repository universe
 apt-get update
